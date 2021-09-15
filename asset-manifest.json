@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/login/static/css/main.c3517d07.chunk.css",
-    "main.js": "/login/static/js/main.c902b825.chunk.js",
-    "main.js.map": "/login/static/js/main.c902b825.chunk.js.map",
-    "runtime-main.js": "/login/static/js/runtime-main.bbab4a4c.js",
-    "runtime-main.js.map": "/login/static/js/runtime-main.bbab4a4c.js.map",
+    "main.css": "/login/static/css/main.e63d11cf.chunk.css",
+    "main.js": "/login/static/js/main.4928a3ca.chunk.js",
+    "main.js.map": "/login/static/js/main.4928a3ca.chunk.js.map",
+    "runtime-main.js": "/login/static/js/runtime-main.bf1facba.js",
+    "runtime-main.js.map": "/login/static/js/runtime-main.bf1facba.js.map",
     "static/css/2.818011ed.chunk.css": "/login/static/css/2.818011ed.chunk.css",
-    "static/js/2.c4bf39b4.chunk.js": "/login/static/js/2.c4bf39b4.chunk.js",
-    "static/js/2.c4bf39b4.chunk.js.map": "/login/static/js/2.c4bf39b4.chunk.js.map",
-    "static/js/3.b6c81b0c.chunk.js": "/login/static/js/3.b6c81b0c.chunk.js",
-    "static/js/3.b6c81b0c.chunk.js.map": "/login/static/js/3.b6c81b0c.chunk.js.map",
+    "static/js/2.0f048079.chunk.js": "/login/static/js/2.0f048079.chunk.js",
+    "static/js/2.0f048079.chunk.js.map": "/login/static/js/2.0f048079.chunk.js.map",
+    "static/js/3.a7358071.chunk.js": "/login/static/js/3.a7358071.chunk.js",
+    "static/js/3.a7358071.chunk.js.map": "/login/static/js/3.a7358071.chunk.js.map",
     "index.html": "/login/index.html",
     "static/css/2.818011ed.chunk.css.map": "/login/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.c3517d07.chunk.css.map": "/login/static/css/main.c3517d07.chunk.css.map",
-    "static/js/2.c4bf39b4.chunk.js.LICENSE.txt": "/login/static/js/2.c4bf39b4.chunk.js.LICENSE.txt",
+    "static/css/main.e63d11cf.chunk.css.map": "/login/static/css/main.e63d11cf.chunk.css.map",
+    "static/js/2.0f048079.chunk.js.LICENSE.txt": "/login/static/js/2.0f048079.chunk.js.LICENSE.txt",
     "static/media/Cloud.42ef07a5.png": "/login/static/media/Cloud.42ef07a5.png",
     "static/media/AppFont.css": "/login/static/media/SF-Pro-Text-Thin.e152bbce.otf",
     "static/media/profile.6483b06d.png": "/login/static/media/profile.6483b06d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbab4a4c.js",
+    "static/js/runtime-main.bf1facba.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.c4bf39b4.chunk.js",
-    "static/css/main.c3517d07.chunk.css",
-    "static/js/main.c902b825.chunk.js"
+    "static/js/2.0f048079.chunk.js",
+    "static/css/main.e63d11cf.chunk.css",
+    "static/js/main.4928a3ca.chunk.js"
   ]
 }
